@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+chromedriver.exe
+steam_data.csv
+.idea
