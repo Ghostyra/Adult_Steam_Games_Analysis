@@ -1,0 +1,29 @@
+# To check more avaialble options see:
+# https://matplotlib.org/tutorials/introductory/customizing.html
+
+
+# AXES
+axes.facecolor:     171a21
+axes.edgecolor:     2a475e
+axes.linewidth:     2.4
+axes.labelcolor:    c7d5e0 
+axes.titlesize:     20
+axes.titleweight:   bold
+axes.titlecolor: white
+axes.titlepad:      16.0 
+axes.labelpad:      10.0
+axes.labelsize:     17
+
+# LINES
+lines.color:     66c0f4
+
+text.color: c7d5e0
+
+# FIGURE
+figure.facecolor:   171a21
+
+# TICKS
+xtick.color: c7d5e0
+ytick.color: c7d5e0
+xtick.major.pad:     5
+ytick.major.pad:     5
